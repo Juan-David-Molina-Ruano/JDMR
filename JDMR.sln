@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDMR.Temperatura", "JDMR.Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDMR.Temperatura.UnitTestMSTest", "JDMR.Temperatura.UnitTestMSTest\JDMR.Temperatura.UnitTestMSTest.csproj", "{F29B08D7-7EAC-4CB6-A403-9C3ABF95D233}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDMR.ManipuladorCadenas", "JDMR.ManipuladorCadenas\JDMR.ManipuladorCadenas.csproj", "{65B82F88-9F1A-4808-9332-10BE02CE735F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F29B08D7-7EAC-4CB6-A403-9C3ABF95D233}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F29B08D7-7EAC-4CB6-A403-9C3ABF95D233}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F29B08D7-7EAC-4CB6-A403-9C3ABF95D233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65B82F88-9F1A-4808-9332-10BE02CE735F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B82F88-9F1A-4808-9332-10BE02CE735F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B82F88-9F1A-4808-9332-10BE02CE735F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B82F88-9F1A-4808-9332-10BE02CE735F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
