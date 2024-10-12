@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDMR.Temperatura", "JDMR.Temperatura\JDMR.Temperatura.csproj", "{92DB6841-7EC9-4A33-9C30-52CFBB7391FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDMR.Temperatura.UnitTestMSTest", "JDMR.Temperatura.UnitTestMSTest\JDMR.Temperatura.UnitTestMSTest.csproj", "{F29B08D7-7EAC-4CB6-A403-9C3ABF95D233}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{92DB6841-7EC9-4A33-9C30-52CFBB7391FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92DB6841-7EC9-4A33-9C30-52CFBB7391FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92DB6841-7EC9-4A33-9C30-52CFBB7391FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F29B08D7-7EAC-4CB6-A403-9C3ABF95D233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F29B08D7-7EAC-4CB6-A403-9C3ABF95D233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F29B08D7-7EAC-4CB6-A403-9C3ABF95D233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F29B08D7-7EAC-4CB6-A403-9C3ABF95D233}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
